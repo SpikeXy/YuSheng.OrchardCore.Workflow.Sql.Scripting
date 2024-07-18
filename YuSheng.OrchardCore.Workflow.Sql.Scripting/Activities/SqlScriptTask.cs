@@ -38,7 +38,7 @@ namespace YuSheng.OrchardCore.Workflow.Sql.Scripting.Activities
 
         public override LocalizedString DisplayText => S["Sql Script Task"];
 
-        public override LocalizedString Category => S["Control Flow"];
+        public override LocalizedString Category => S["Script"];
 
         /// <summary>
         /// The script can call any available functions, including setOutcome().
