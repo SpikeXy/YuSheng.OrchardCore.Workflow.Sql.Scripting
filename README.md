@@ -11,11 +11,4 @@ spike
 P@ssw0rd
 
 
----
-
-![demo3](./demo3.png)
-
-![demo1](./demo1.gif)
-
-![demo2](./demo2.gif)
 
