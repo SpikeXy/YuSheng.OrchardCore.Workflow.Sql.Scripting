@@ -9,4 +9,3 @@ The plugin use key word `sqlfile` as input variable name in sql workflow script,
 spike
 
 P@ssw0rd
-
